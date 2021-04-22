@@ -1,4 +1,4 @@
-{
+(()=>{
     type CoffeeCup = {
         shots:number;
         hasMilk:boolean;
@@ -31,4 +31,4 @@
     console.log(coffee);
 
 
-}
+})();
